@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Latifah!
 
-🎓 4th-year Computer Engineering student | 💻 Aspiring Software Engineer | 🌍 Passionate about tech for social good
+🎓 4th-year Computer Engineering student | 💻 Aspiring Software Engineer | 🌍 Empowering communities through tech
 
 ## 🔧 Technologies & Tools
 - Languages: Java, C, C++, Python, SQL
