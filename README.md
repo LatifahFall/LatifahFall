@@ -23,7 +23,7 @@
 ## 🎯 2025 Goals
 - ✨ Build a portfolio of real-world apps that solve meaningful problems  
 - 👩‍💻 Get into DevOps  
-- 🌍 Participate in an open-source project
+- 🌍 Contribute to an open-source project
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/LatifahFall)  
